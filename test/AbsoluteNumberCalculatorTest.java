@@ -30,5 +30,5 @@ class AbsoluteNumberCalculatorTest {
         int result = AbsoluteNumberCalculator.findAbsolute(number);
         assertEquals(expected, result);
     }
-   
+
 }
